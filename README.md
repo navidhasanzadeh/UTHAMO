@@ -1,5 +1,5 @@
 # UTHAMO
-UTHAMO: A Multi-Modal Wi-Fi CSI Dataset for Hand Motion Recognition
+**UTHAMO: A Multi-Modal Wi-Fi CSI Dataset for Hand Motion Recognition**
 
 The link to download the UTHAMO dataset:
 
@@ -13,20 +13,20 @@ UTHAMO is a multi-modal dataset developed for Wi-Fi-based human activity recogni
 
 1- MORIC: https://arxiv.org/abs/2506.12997
 ```bibtex
-@article{hasanzadeh2025dorf,
-  title={DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi},
+@article{hasanzadeh2025moric,
+  title={MORIC: CSI Delay-Doppler Decomposition for Robust Wi-Fi-based Human Activity Recognition},
   author={Hasanzadeh, Navid and Valaee, Shahrokh},
-  journal={arXiv preprint arXiv:2507.12132},
+  journal={arXiv preprint arXiv:2506.12997},
   year={2025}
 }
 ```
 
 2- DoRF: https://arxiv.org/abs/2507.12132
 ```bibtex
-@article{hasanzadeh2025moric,
-  title={MORIC: CSI Delay-Doppler Decomposition for Robust Wi-Fi-based Human Activity Recognition},
+@article{hasanzadeh2025dorf,
+  title={DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi},
   author={Hasanzadeh, Navid and Valaee, Shahrokh},
-  journal={arXiv preprint arXiv:2506.12997},
+  journal={arXiv preprint arXiv:2507.12132},
   year={2025}
 }
 ```
