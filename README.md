@@ -11,6 +11,7 @@ UTHAMO is a multi-modal dataset developed for Wi-Fi-based human activity recogni
 
 **Relevant Works**
 
+1- MORIC: https://arxiv.org/abs/2506.12997
 ```bibtex
 @article{hasanzadeh2025dorf,
   title={DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi},
@@ -20,6 +21,7 @@ UTHAMO is a multi-modal dataset developed for Wi-Fi-based human activity recogni
 }
 ```
 
+2- DoRF: https://arxiv.org/abs/2507.12132
 ```bibtex
 @article{hasanzadeh2025moric,
   title={MORIC: CSI Delay-Doppler Decomposition for Robust Wi-Fi-based Human Activity Recognition},
